@@ -1,0 +1,17 @@
+pandas
+
+matplotlib
+
+opencv-python
+
+PyAutoGUI
+
+pygame
+
+gtts
+
+speechrecognition
+
+PyGetWindow
+
+speedtest-cli
